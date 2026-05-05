@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" fill="none">
+  <rect width="800" height="560" rx="36" fill="#E8E2D4"/>
+  <path d="M0 392C97 360 167 360 246 385C333 412 424 430 514 404C618 374 699 332 800 354V560H0V392Z" fill="#D5E5D6"/>
+  <circle cx="632" cy="112" r="72" fill="#F2DEB9"/>
+  <circle cx="162" cy="112" r="44" fill="#D2E3D5"/>
+  <rect x="160" y="160" width="466" height="228" rx="22" fill="#F9F5EE"/>
+  <rect x="200" y="192" width="116" height="84" rx="18" fill="#DCEBDE"/>
+  <rect x="332" y="192" width="116" height="84" rx="18" fill="#EFD7A9"/>
+  <rect x="464" y="192" width="116" height="84" rx="18" fill="#DCEBDE"/>
+  <rect x="268" y="304" width="254" height="84" rx="18" fill="#1F6B46"/>
+  <path d="M384 160H402V132C402 117 390 104 375 104H350V122H375C380 122 384 126 384 132V160Z" fill="#1F6B46"/>
+  <rect x="96" y="378" width="92" height="116" rx="26" fill="#D5E5D6"/>
+  <rect x="620" y="364" width="108" height="130" rx="30" fill="#CFDCCF"/>
+  <path d="M136 418C154 418 168 403 168 385C168 367 154 352 136 352C118 352 104 367 104 385C104 403 118 418 136 418Z" fill="#163828"/>
+  <path d="M104 492V456C104 434 122 416 144 416C166 416 184 434 184 456V492H104Z" fill="#C8913F"/>
+  <path d="M144 410C159 410 171 398 171 383C171 368 159 356 144 356C129 356 117 368 117 383C117 398 129 410 144 410Z" fill="#F0C59A"/>
+  <path d="M640 476V426C640 401 660 381 685 381C710 381 730 401 730 426V476H640Z" fill="#24533B"/>
+  <path d="M686 378C704 378 719 363 719 345C719 327 704 312 686 312C668 312 653 327 653 345C653 363 668 378 686 378Z" fill="#F0C59A"/>
+  <path d="M548 470V434C548 413 565 396 586 396C607 396 624 413 624 434V470H548Z" fill="#D58C57"/>
+  <path d="M586 393C602 393 615 380 615 364C615 348 602 335 586 335C570 335 557 348 557 364C557 380 570 393 586 393Z" fill="#F5D0AA"/>
+  <rect x="230" y="416" width="230" height="28" rx="14" fill="#244231"/>
+  <rect x="230" y="444" width="230" height="18" rx="9" fill="#C8913F"/>
+  <circle cx="354" cy="430" r="10" fill="#F7F2E8"/>
+  <circle cx="388" cy="430" r="10" fill="#F7F2E8"/>
+  <circle cx="422" cy="430" r="10" fill="#F7F2E8"/>
+</svg>
